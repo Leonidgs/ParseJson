@@ -1,0 +1,66 @@
+{
+  "orgs": [
+    {
+      "orgName": "Invest",
+      "address": "Moscow",
+      "dateOfFoundation": "15/10/2010",
+      "phoneNum": "777-000-1",
+      "inn": "333-00-12",
+      "ogrn": "99310",
+      "securities": [
+        {
+          "name": "Ukos",
+          "id": "01",
+          "code" : "291E",
+          "currency": "USD",
+          "timeEnd": "20.01.2003"
+        },
+        {
+          "name": "VTB",
+          "id": "02",
+          "code" : "297Y",
+          "currency": "EU",
+          "timeEnd": "20.01.2025"
+        },
+        {
+          "name": "AlfaBank",
+          "id": "03",
+          "code" : "700R",
+          "currency": "USD",
+          "timeEnd": "20.01.2022"
+        }
+      ]
+    },
+    {
+    "orgName": "Smart Capital",
+      "address": "SPB",
+      "dateOfFoundation": "15/10/1998",
+      "phoneNum": "999-00-12",
+      "inn": "003-29-32",
+      "ogrn": "88442",
+      "securities": [
+        {
+          "name": "Roselmash",
+          "id": "09",
+          "code" : "291Z",
+          "currency": "RUB",
+          "timeEnd": "20.01.2009"
+        },
+        {
+          "name": "Sberbank",
+          "id": "07",
+          "code" : "103R",
+          "currency": "USD",
+          "timeEnd": "20.01.2027"
+        },
+        {
+          "name": "NaftoGaz",
+          "id": "04",
+          "code" : "296G",
+          "currency": "EU",
+          "timeEnd": "20.01.2020"
+        }
+      ]
+    }
+  ]
+}
